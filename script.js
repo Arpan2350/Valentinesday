@@ -9,7 +9,7 @@ const journey = [
     {
         month: "July 2025",
         story: "In July, we were just two strangers. But then came that first hello that changed my world forever. I still remember the butterflies I felt when I first heard your voice. Little did I know, that was the beginning of my forever.",
-        images: ["june 1.jpg", "june 2.jpg", "july3.jpg"]
+        images: ["june1.jpg", "june2.jpg", "july3.jpg"]
     },
     {
         month: "August 2025",
@@ -456,4 +456,5 @@ window.addEventListener('DOMContentLoaded', () => {
         }
     `;
     document.head.appendChild(style);
+
 });
